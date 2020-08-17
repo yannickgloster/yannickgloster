@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# markdown
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/yannickgloster})]
 
 
 [![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=yannickgloster)](https://github.com/yannickgloster)
