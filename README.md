@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yannickgloster/yannickgloster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=yannickgloster.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=yannickgloster)](https://github.com/yannickgloster)
