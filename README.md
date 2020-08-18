@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=yannickgloster)](https://github.com/yannickgloster)
+[![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=yannickgloster)](https://github.com/yannickgloster) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yannickgloster&repo=discord-10man)](https://github.com/yannickgloster/discord-10man)
 
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yannickgloster&repo=discord-10man)](https://github.com/yannickgloster/discord-10man)
